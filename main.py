@@ -22,24 +22,22 @@ choice1 = ""
 
 
 banner = """
-              ██╗     ███████╗    ██████╗ ████████╗██╗████████╗    ████████╗ ██████╗  ██████╗ ██╗     
-              ██║     ██╔════╝    ██╔══██╗╚══██╔══╝██║╚══██╔══╝    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     
-              ██║     █████╗      ██████╔╝   ██║   ██║   ██║          ██║   ██║   ██║██║   ██║██║     
-              ██║     ██╔══╝      ██╔═══╝    ██║   ██║   ██║          ██║   ██║   ██║██║   ██║██║     
-              ███████╗███████╗    ██║        ██║   ██║   ██║          ██║   ╚██████╔╝╚██████╔╝███████╗
-              ╚══════╝╚══════╝    ╚═╝        ╚═╝   ╚═╝   ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
-                                                                                                                  
+███████╗ █████╗ ███╗   ██╗██████╗  █████╗ ██╗  ██╗
+██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗╚██╗██╔╝
+███████╗███████║██╔██╗ ██║██║  ██║███████║ ╚███╔╝ 
+╚════██║██╔══██║██║╚██╗██║██║  ██║██╔══██║ ██╔██╗ 
+███████║██║  ██║██║ ╚████║██████╔╝██║  ██║██╔╝ ██╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+                                                                                                                                                                                   
 """
 
 print(Fore.RED + banner)
 print("")
 print("")
 print("")
-InfoSystem = """ [Info System ●] : """
 
-PathMachine = """HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ComputerName\ """
 
-FileClear = """" : Clear/.'UserCache' """
+
 
 def random_char(y):
     return ''.join(random.choice(string.ascii_letters) for x in range(y))
@@ -84,19 +82,24 @@ while True:
     os.system('cls')
     print(Fore.BLUE+ "[Info System] : Wait...")
     sleep(6)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
     sleep(0.5)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
     sleep(0.5)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
     sleep(0.5)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
     sleep(0.5)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
     sleep(0.5)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
     sleep(0.5)
-    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"EXEC./Request:IP=Github/leptittool")
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
+    sleep(0.5)
+    print(Fore.RED +"Try:" + Fore.MAGENTA + " Date.get.user/cookie/cache |  " + Fore.BLUE +"Discord/Token...")
+    sleep(0.5)
+
+
 
 
     print(Fore.GREEN + "----------------------------  FINISH  ----------------------------")
@@ -112,19 +115,6 @@ while True:
     print("")
 
 
-
-
-
-
-  if (choice1 == "TFEN-LZZE-OYVX-LIFE"):
-    ketInput = input("Vous voulez vraiment changer d'HWID(ProfilGuildPC) ? Si oui, appuyez sur ENTRER.")
-
-
-
-  # Credit
-  elif (choice1 == "2"):
-    # Output the balance
-    print("By Le P'tit Tool | https://discord.gg/wWM9tS36bR ")  
 
   # Exit 
   elif (choice == "4"):
