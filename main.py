@@ -55,19 +55,12 @@ while True:
 
   print(Fore.YELLOW + "")
   print(Fore.YELLOW + "")
-  
-
-
+ 
   # line for choice the option 
   choice1 = input("Entrer votre choix : ")
   print("")
   print("")
 
-        
-
-
-  # answer after enter key 
-  hwidchanged = "✅L'HWID a été chnagé avex succés !"
 # ┌⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ KEY ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯┐
 
   if (choice1 == "1"):
